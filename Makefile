@@ -37,35 +37,8 @@ BUILD_DIR = build
 # C sources
 C_SOURCES =  \
 Firmware/CMSIS/GD/GD32F4xx/Source/system_gd32f4xx.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_adc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_can.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_crc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_ctc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dac.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dbg.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dci.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dma.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_enet.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_exmc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_exti.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_fmc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_fwdgt.c \
 Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_gpio.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_i2c.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_ipa.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_iref.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_misc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_pmu.c \
 Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_rcu.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_rtc.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_sdio.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_spi.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_syscfg.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_timer.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_tli.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_trng.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_usart.c \
-Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_wwdgt.c \
 Hardware/Led/bsp_led.c \
 User/gd32f4xx_it.c \
 User/gd32f450i_eval.c \

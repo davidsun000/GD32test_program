@@ -39,31 +39,7 @@ OF SUCH DAMAGE.
 #include "systick.h"
 #include <stdio.h>
 #include "main.h"
-#include "gd32f450i_eval.h"
 #include "bsp_led.h"
-/*!
-    \brief    toggle the led every 500ms
-    \param[in]  none
-    \param[out] none
-    \retval     none
-*/
-void led_spark(void)
-{
-    static __IO uint32_t timingdelaylocal = 0U;
-
-    if(timingdelaylocal) {
-
-        if(timingdelaylocal < 500U) {
-            gd_eval_led_on(LED1);
-        } else {
-            gd_eval_led_off(LED1);
-        }
-
-        timingdelaylocal--;
-    } else {
-        timingdelaylocal = 1000U;
-    }
-}
 
 /*!
     \brief    main function
@@ -77,6 +53,7 @@ int main(void)
    // gd_eval_led_init(LED2);
     systick_config();
     led_gpio_config();
+
     BSP_GPIOD_OCTL |= (0x01<<7);
 
     while(1) {
