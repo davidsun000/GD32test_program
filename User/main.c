@@ -40,7 +40,7 @@ OF SUCH DAMAGE.
 #include <stdio.h>
 #include "main.h"
 #include "gd32f450i_eval.h"
-
+#include "bsp_led.h"
 /*!
     \brief    toggle the led every 500ms
     \param[in]  none
@@ -74,8 +74,10 @@ void led_spark(void)
 int main(void)
 {
 
-    gd_eval_led_init(LED1);
+   // gd_eval_led_init(LED2);
     systick_config();
+    led_gpio_config();
+    BSP_GPIOD_OCTL |= (0x01<<7);
 
     while(1) {
     }

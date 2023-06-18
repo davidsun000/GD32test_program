@@ -66,8 +66,9 @@ Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_tli.c \
 Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_trng.c \
 Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_usart.c \
 Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_wwdgt.c \
-Hardware/LED/bsp_led.c \
+Hardware/Led/bsp_led.c \
 User/gd32f4xx_it.c \
+User/gd32f450i_eval.c \
 User/main.c \
 User/systick.c
 
@@ -129,7 +130,7 @@ C_INCLUDES =  \
 -IFirmware/GD32F4xx_standard_peripheral/Include \
 -IFirmware/CMSIS/GD/GD32F4xx/Include \
 -IFirmware/CMSIS \
--IHardware/LED \
+-IHardware/Led \
 -IUser
 
 
