@@ -54,8 +54,11 @@ int main(void)
     systick_config();
     led_gpio_config();
 
-    BSP_GPIOD_OCTL |= (0x01<<7);
+//    BSP_GPIOD_OCTL |= (0x01<<7);
 
+//	gpio_bit_set(GPIOD,GPIO_PIN_7);
+//	gpio_bit_reset(GPIOD,GPIO_PIN_7);
+	gpio_bit_write(GPIOD,GPIO_PIN_7,SET);
     while(1) {
     }
 }
