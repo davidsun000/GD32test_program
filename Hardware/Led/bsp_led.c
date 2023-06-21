@@ -13,10 +13,23 @@
 void led_gpio_config(void)
 {
 
-	rcu_periph_clock_enable(RCU_GPIOD);
-	gpio_mode_set(GPIOD,GPIO_MODE_OUTPUT,GPIO_PUPD_NONE,GPIO_PIN_7);
-	gpio_output_options_set(GPIOD,GPIO_OTYPE_PP,GPIO_OSPEED_50MHZ,GPIO_PIN_7);
-	
+	rcu_periph_clock_enable(RCU_LED);
+	gpio_mode_set(PORT_LED,GPIO_MODE_OUTPUT,GPIO_PUPD_NONE,PIN_LED);
+	gpio_output_options_set(PORT_LED,GPIO_OTYPE_PP,GPIO_OSPEED_50MHZ,PIN_LED);
+
+	rcu_periph_clock_enable(RCU_LED2);
+	gpio_mode_set(PORT_LED2,GPIO_MODE_OUTPUT,GPIO_PUPD_NONE,PIN_LED2);
+	gpio_output_options_set(PORT_LED2,GPIO_OTYPE_PP,GPIO_OSPEED_50MHZ,PIN_LED2);
+
+	rcu_periph_clock_enable(RCU_LED3);
+	gpio_mode_set(PORT_LED3,GPIO_MODE_OUTPUT,GPIO_PUPD_NONE,PIN_LED3);
+	gpio_output_options_set(PORT_LED3,GPIO_OTYPE_PP,GPIO_OSPEED_50MHZ,PIN_LED3);
+
+	rcu_periph_clock_enable(RCU_LED4);
+	gpio_mode_set(PORT_LED4,GPIO_MODE_OUTPUT,GPIO_PUPD_NONE,PIN_LED4);
+	gpio_output_options_set(PORT_LED4,GPIO_OTYPE_PP,GPIO_OSPEED_50MHZ,PIN_LED4);
+
+
 
 /*
 

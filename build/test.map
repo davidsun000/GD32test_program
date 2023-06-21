@@ -1,0 +1,985 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                              /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                              /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x7c /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 build/system_gd32f4xx.o
+ .data          0x0000000000000000        0x0 build/system_gd32f4xx.o
+ .bss           0x0000000000000000        0x0 build/system_gd32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xac build/system_gd32f4xx.o
+ .rodata        0x0000000000000000       0x10 build/system_gd32f4xx.o
+ .text          0x0000000000000000        0x0 build/gd32f4xx_gpio.o
+ .data          0x0000000000000000        0x0 build/gd32f4xx_gpio.o
+ .bss           0x0000000000000000        0x0 build/gd32f4xx_gpio.o
+ .text.gpio_deinit
+                0x0000000000000000       0xfc build/gd32f4xx_gpio.o
+ .text.gpio_bit_set
+                0x0000000000000000        0x4 build/gd32f4xx_gpio.o
+ .text.gpio_bit_reset
+                0x0000000000000000        0x4 build/gd32f4xx_gpio.o
+ .text.gpio_port_write
+                0x0000000000000000        0x4 build/gd32f4xx_gpio.o
+ .text.gpio_input_bit_get
+                0x0000000000000000        0xe build/gd32f4xx_gpio.o
+ .text.gpio_input_port_get
+                0x0000000000000000        0x6 build/gd32f4xx_gpio.o
+ .text.gpio_output_bit_get
+                0x0000000000000000        0xe build/gd32f4xx_gpio.o
+ .text.gpio_output_port_get
+                0x0000000000000000        0x6 build/gd32f4xx_gpio.o
+ .text.gpio_af_set
+                0x0000000000000000       0x78 build/gd32f4xx_gpio.o
+ .text.gpio_pin_lock
+                0x0000000000000000       0x10 build/gd32f4xx_gpio.o
+ .text.gpio_bit_toggle
+                0x0000000000000000        0x4 build/gd32f4xx_gpio.o
+ .text.gpio_port_toggle
+                0x0000000000000000        0x8 build/gd32f4xx_gpio.o
+ .text          0x0000000000000000        0x0 build/gd32f4xx_rcu.o
+ .data          0x0000000000000000        0x0 build/gd32f4xx_rcu.o
+ .bss           0x0000000000000000        0x0 build/gd32f4xx_rcu.o
+ .text.rcu_periph_clock_disable
+                0x0000000000000000       0x1e build/gd32f4xx_rcu.o
+ .text.rcu_periph_clock_sleep_enable
+                0x0000000000000000       0x1c build/gd32f4xx_rcu.o
+ .text.rcu_periph_clock_sleep_disable
+                0x0000000000000000       0x1e build/gd32f4xx_rcu.o
+ .text.rcu_periph_reset_enable
+                0x0000000000000000       0x1c build/gd32f4xx_rcu.o
+ .text.rcu_periph_reset_disable
+                0x0000000000000000       0x1e build/gd32f4xx_rcu.o
+ .text.rcu_bkp_reset_enable
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_bkp_reset_disable
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_system_clock_source_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_system_clock_source_get
+                0x0000000000000000       0x10 build/gd32f4xx_rcu.o
+ .text.rcu_ahb_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_apb1_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_apb2_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_ckout0_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_ckout1_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_pll_config
+                0x0000000000000000       0x8c build/gd32f4xx_rcu.o
+ .text.rcu_plli2s_config
+                0x0000000000000000       0x2c build/gd32f4xx_rcu.o
+ .text.rcu_pllsai_config
+                0x0000000000000000       0x48 build/gd32f4xx_rcu.o
+ .text.rcu_rtc_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_rtc_div_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_i2s_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_ck48m_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_pll48m_clock_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_timer_clock_prescaler_config
+                0x0000000000000000       0x28 build/gd32f4xx_rcu.o
+ .text.rcu_tli_clock_div_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_lxtal_drive_capability_config
+                0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text.rcu_osci_on
+                0x0000000000000000       0x1c build/gd32f4xx_rcu.o
+ .text.rcu_osci_off
+                0x0000000000000000       0x1e build/gd32f4xx_rcu.o
+ .text.rcu_osci_bypass_mode_enable
+                0x0000000000000000       0x48 build/gd32f4xx_rcu.o
+ .text.rcu_osci_bypass_mode_disable
+                0x0000000000000000       0x48 build/gd32f4xx_rcu.o
+ .text.rcu_irc16m_adjust_value_set
+                0x0000000000000000       0x1c build/gd32f4xx_rcu.o
+ .text.rcu_spread_spectrum_config
+                0x0000000000000000       0x24 build/gd32f4xx_rcu.o
+ .text.rcu_spread_spectrum_enable
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_spread_spectrum_disable
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_hxtal_clock_monitor_enable
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_hxtal_clock_monitor_disable
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_voltage_key_unlock
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_deepsleep_voltage_set
+                0x0000000000000000       0x10 build/gd32f4xx_rcu.o
+ .text.rcu_clock_freq_get
+                0x0000000000000000       0xe8 build/gd32f4xx_rcu.o
+ .text.rcu_flag_get
+                0x0000000000000000       0x22 build/gd32f4xx_rcu.o
+ .text.rcu_osci_stab_wait
+                0x0000000000000000      0x178 build/gd32f4xx_rcu.o
+ .text.rcu_deinit
+                0x0000000000000000       0x80 build/gd32f4xx_rcu.o
+ .text.rcu_all_reset_flag_clear
+                0x0000000000000000       0x14 build/gd32f4xx_rcu.o
+ .text.rcu_interrupt_flag_get
+                0x0000000000000000       0x22 build/gd32f4xx_rcu.o
+ .text.rcu_interrupt_flag_clear
+                0x0000000000000000       0x1c build/gd32f4xx_rcu.o
+ .text.rcu_interrupt_enable
+                0x0000000000000000       0x1c build/gd32f4xx_rcu.o
+ .text.rcu_interrupt_disable
+                0x0000000000000000       0x1e build/gd32f4xx_rcu.o
+ .rodata        0x0000000000000000       0x18 build/gd32f4xx_rcu.o
+ .text          0x0000000000000000        0x0 build/bsp_led.o
+ .data          0x0000000000000000        0x0 build/bsp_led.o
+ .bss           0x0000000000000000        0x0 build/bsp_led.o
+ .text          0x0000000000000000        0x0 build/gd32f4xx_it.o
+ .data          0x0000000000000000        0x0 build/gd32f4xx_it.o
+ .bss           0x0000000000000000        0x0 build/gd32f4xx_it.o
+ .text          0x0000000000000000        0x0 build/gd32f450i_eval.o
+ .data          0x0000000000000000        0x0 build/gd32f450i_eval.o
+ .bss           0x0000000000000000        0x0 build/gd32f450i_eval.o
+ .text.gd_eval_led_init
+                0x0000000000000000       0x44 build/gd32f450i_eval.o
+ .text.gd_eval_led_on
+                0x0000000000000000       0x18 build/gd32f450i_eval.o
+ .text.gd_eval_led_off
+                0x0000000000000000       0x18 build/gd32f450i_eval.o
+ .text.gd_eval_led_toggle
+                0x0000000000000000       0x18 build/gd32f450i_eval.o
+ .text.gd_eval_key_init
+                0x0000000000000000       0x80 build/gd32f450i_eval.o
+ .text.gd_eval_key_state_get
+                0x0000000000000000       0x1c build/gd32f450i_eval.o
+ .text.gd_eval_com_init
+                0x0000000000000000       0x94 build/gd32f450i_eval.o
+ .rodata.GPIO_CLK
+                0x0000000000000000        0x6 build/gd32f450i_eval.o
+ .rodata.GPIO_PIN
+                0x0000000000000000        0xc build/gd32f450i_eval.o
+ .rodata.GPIO_PORT
+                0x0000000000000000        0xc build/gd32f450i_eval.o
+ .rodata.KEY_CLK
+                0x0000000000000000        0x6 build/gd32f450i_eval.o
+ .rodata.KEY_EXTI_LINE
+                0x0000000000000000        0xc build/gd32f450i_eval.o
+ .rodata.KEY_IRQn
+                0x0000000000000000        0x3 build/gd32f450i_eval.o
+ .rodata.KEY_PIN
+                0x0000000000000000        0xc build/gd32f450i_eval.o
+ .rodata.KEY_PIN_SOURCE
+                0x0000000000000000        0x3 build/gd32f450i_eval.o
+ .rodata.KEY_PORT
+                0x0000000000000000        0xc build/gd32f450i_eval.o
+ .rodata.KEY_PORT_SOURCE
+                0x0000000000000000        0x3 build/gd32f450i_eval.o
+ .debug_info    0x0000000000000000      0xd11 build/gd32f450i_eval.o
+ .debug_abbrev  0x0000000000000000      0x1d2 build/gd32f450i_eval.o
+ .debug_loc     0x0000000000000000      0x146 build/gd32f450i_eval.o
+ .debug_aranges
+                0x0000000000000000       0x50 build/gd32f450i_eval.o
+ .debug_ranges  0x0000000000000000       0x40 build/gd32f450i_eval.o
+ .debug_line    0x0000000000000000      0x2c8 build/gd32f450i_eval.o
+ .debug_str     0x0000000000000000      0xe03 build/gd32f450i_eval.o
+ .comment       0x0000000000000000       0x4a build/gd32f450i_eval.o
+ .debug_frame   0x0000000000000000       0xac build/gd32f450i_eval.o
+ .ARM.attributes
+                0x0000000000000000       0x34 build/gd32f450i_eval.o
+ .text          0x0000000000000000        0x0 build/main.o
+ .data          0x0000000000000000        0x0 build/main.o
+ .bss           0x0000000000000000        0x0 build/main.o
+ .text          0x0000000000000000        0x0 build/systick.o
+ .data          0x0000000000000000        0x0 build/systick.o
+ .bss           0x0000000000000000        0x0 build/systick.o
+ .text.delay_1ms
+                0x0000000000000000       0x14 build/systick.o
+ .text          0x0000000000000000       0x14 build/startup_gd32f450_470.o
+ .data          0x0000000000000000        0x0 build/startup_gd32f450_470.o
+ .bss           0x0000000000000000        0x0 build/startup_gd32f450_470.o
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x48 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000040000 xrw
+CCMRAM           0x0000000010000000 0x0000000000010000 rw
+FLASH            0x0000000008000000 0x0000000000100000 xr
+EXMC_SDRAM       0x00000000c0000000 0x0000000002000000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD build/system_gd32f4xx.o
+LOAD build/gd32f4xx_gpio.o
+LOAD build/gd32f4xx_rcu.o
+LOAD build/bsp_led.o
+LOAD build/gd32f4xx_it.o
+LOAD build/gd32f450i_eval.o
+LOAD build/main.o
+LOAD build/systick.o
+LOAD build/startup_gd32f450_470.o
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+START GROUP
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020030000                _estack = 0x20030000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1ac
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1ac build/startup_gd32f450_470.o
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001ac                . = ALIGN (0x4)
+
+.text           0x00000000080001ac      0x464
+                0x00000000080001ac                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001ac       0x40 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ .text.system_clock_240m_irc16m
+                0x00000000080001ec       0xe4 build/system_gd32f4xx.o
+ .text.system_clock_config
+                0x00000000080002d0        0x8 build/system_gd32f4xx.o
+ .text.SystemInit
+                0x00000000080002d8       0xc0 build/system_gd32f4xx.o
+                0x00000000080002d8                SystemInit
+ .text.gpio_mode_set
+                0x0000000008000398       0x52 build/gd32f4xx_gpio.o
+                0x0000000008000398                gpio_mode_set
+ .text.gpio_output_options_set
+                0x00000000080003ea       0x50 build/gd32f4xx_gpio.o
+                0x00000000080003ea                gpio_output_options_set
+ .text.gpio_bit_write
+                0x000000000800043a        0xa build/gd32f4xx_gpio.o
+                0x000000000800043a                gpio_bit_write
+ .text.rcu_periph_clock_enable
+                0x0000000008000444       0x1c build/gd32f4xx_rcu.o
+                0x0000000008000444                rcu_periph_clock_enable
+ .text.led_gpio_config
+                0x0000000008000460       0x98 build/bsp_led.o
+                0x0000000008000460                led_gpio_config
+ .text.NMI_Handler
+                0x00000000080004f8        0x2 build/gd32f4xx_it.o
+                0x00000000080004f8                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080004fa        0x2 build/gd32f4xx_it.o
+                0x00000000080004fa                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080004fc        0x2 build/gd32f4xx_it.o
+                0x00000000080004fc                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080004fe        0x2 build/gd32f4xx_it.o
+                0x00000000080004fe                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008000500        0x2 build/gd32f4xx_it.o
+                0x0000000008000500                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000008000502        0x2 build/gd32f4xx_it.o
+                0x0000000008000502                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000008000504        0x2 build/gd32f4xx_it.o
+                0x0000000008000504                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008000506        0x2 build/gd32f4xx_it.o
+                0x0000000008000506                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000008000508        0x8 build/gd32f4xx_it.o
+                0x0000000008000508                SysTick_Handler
+ .text.main     0x0000000008000510       0x44 build/main.o
+                0x0000000008000510                main
+ .text.systick_config
+                0x0000000008000554       0x40 build/systick.o
+                0x0000000008000554                systick_config
+ .text.delay_decrement
+                0x0000000008000594       0x14 build/systick.o
+                0x0000000008000594                delay_decrement
+ .text.Reset_Handler
+                0x00000000080005a8       0x4c build/startup_gd32f450_470.o
+                0x00000000080005a8                Reset_Handler
+ .text.Default_Handler
+                0x00000000080005f4        0x2 build/startup_gd32f450_470.o
+                0x00000000080005f4                RTC_Alarm_IRQHandler
+                0x00000000080005f4                EXTI2_IRQHandler
+                0x00000000080005f4                TIMER2_IRQHandler
+                0x00000000080005f4                LVD_IRQHandler
+                0x00000000080005f4                SPI4_IRQHandler
+                0x00000000080005f4                CAN1_EWMC_IRQHandler
+                0x00000000080005f4                TIMER7_UP_TIMER12_IRQHandler
+                0x00000000080005f4                SDIO_IRQHandler
+                0x00000000080005f4                EXTI3_IRQHandler
+                0x00000000080005f4                DCI_IRQHandler
+                0x00000000080005f4                USBFS_WKUP_IRQHandler
+                0x00000000080005f4                USBHS_IRQHandler
+                0x00000000080005f4                IPA_IRQHandler
+                0x00000000080005f4                TIMER5_DAC_IRQHandler
+                0x00000000080005f4                TIMER0_TRG_CMT_TIMER10_IRQHandler
+                0x00000000080005f4                USBFS_IRQHandler
+                0x00000000080005f4                TIMER3_IRQHandler
+                0x00000000080005f4                DMA0_Channel6_IRQHandler
+                0x00000000080005f4                I2C0_EV_IRQHandler
+                0x00000000080005f4                EXTI0_IRQHandler
+                0x00000000080005f4                I2C2_EV_IRQHandler
+                0x00000000080005f4                CAN1_RX0_IRQHandler
+                0x00000000080005f4                FPU_IRQHandler
+                0x00000000080005f4                TIMER7_TRG_CMT_TIMER13_IRQHandler
+                0x00000000080005f4                TIMER4_IRQHandler
+                0x00000000080005f4                SPI1_IRQHandler
+                0x00000000080005f4                DMA0_Channel0_IRQHandler
+                0x00000000080005f4                USART5_IRQHandler
+                0x00000000080005f4                TIMER0_BRK_TIMER8_IRQHandler
+                0x00000000080005f4                DMA1_Channel0_IRQHandler
+                0x00000000080005f4                TIMER7_BRK_TIMER11_IRQHandler
+                0x00000000080005f4                TIMER7_CC_IRQHandler
+                0x00000000080005f4                TIMER6_IRQHandler
+                0x00000000080005f4                DMA1_Channel4_IRQHandler
+                0x00000000080005f4                DMA0_Channel3_IRQHandler
+                0x00000000080005f4                I2C0_ER_IRQHandler
+                0x00000000080005f4                TLI_IRQHandler
+                0x00000000080005f4                TIMER0_UP_TIMER9_IRQHandler
+                0x00000000080005f4                TIMER0_CC_IRQHandler
+                0x00000000080005f4                DMA1_Channel7_IRQHandler
+                0x00000000080005f4                CAN1_RX1_IRQHandler
+                0x00000000080005f4                DMA0_Channel2_IRQHandler
+                0x00000000080005f4                USART0_IRQHandler
+                0x00000000080005f4                TIMER1_IRQHandler
+                0x00000000080005f4                I2C1_EV_IRQHandler
+                0x00000000080005f4                DMA1_Channel6_IRQHandler
+                0x00000000080005f4                UART4_IRQHandler
+                0x00000000080005f4                EXTI10_15_IRQHandler
+                0x00000000080005f4                DMA1_Channel1_IRQHandler
+                0x00000000080005f4                Default_Handler
+                0x00000000080005f4                DMA0_Channel7_IRQHandler
+                0x00000000080005f4                ADC_IRQHandler
+                0x00000000080005f4                CAN0_TX_IRQHandler
+                0x00000000080005f4                EXMC_IRQHandler
+                0x00000000080005f4                SPI5_IRQHandler
+                0x00000000080005f4                TAMPER_STAMP_IRQHandler
+                0x00000000080005f4                RTC_WKUP_IRQHandler
+                0x00000000080005f4                SPI2_IRQHandler
+                0x00000000080005f4                CAN1_TX_IRQHandler
+                0x00000000080005f4                RCU_CTC_IRQHandler
+                0x00000000080005f4                DMA1_Channel5_IRQHandler
+                0x00000000080005f4                EXTI4_IRQHandler
+                0x00000000080005f4                CAN0_RX1_IRQHandler
+                0x00000000080005f4                DMA0_Channel5_IRQHandler
+                0x00000000080005f4                DMA1_Channel3_IRQHandler
+                0x00000000080005f4                EXTI5_9_IRQHandler
+                0x00000000080005f4                DMA0_Channel1_IRQHandler
+                0x00000000080005f4                EXTI1_IRQHandler
+                0x00000000080005f4                ENET_WKUP_IRQHandler
+                0x00000000080005f4                USBHS_EP1_In_IRQHandler
+                0x00000000080005f4                SPI0_IRQHandler
+                0x00000000080005f4                UART7_IRQHandler
+                0x00000000080005f4                USART2_IRQHandler
+                0x00000000080005f4                UART6_IRQHandler
+                0x00000000080005f4                CAN0_EWMC_IRQHandler
+                0x00000000080005f4                CAN0_RX0_IRQHandler
+                0x00000000080005f4                I2C2_ER_IRQHandler
+                0x00000000080005f4                DMA1_Channel2_IRQHandler
+                0x00000000080005f4                TLI_ER_IRQHandler
+                0x00000000080005f4                USART1_IRQHandler
+                0x00000000080005f4                SPI3_IRQHandler
+                0x00000000080005f4                UART3_IRQHandler
+                0x00000000080005f4                I2C1_ER_IRQHandler
+                0x00000000080005f4                FMC_IRQHandler
+                0x00000000080005f4                USBHS_WKUP_IRQHandler
+                0x00000000080005f4                DMA0_Channel4_IRQHandler
+                0x00000000080005f4                TRNG_IRQHandler
+                0x00000000080005f4                ENET_IRQHandler
+                0x00000000080005f4                USBHS_EP1_Out_IRQHandler
+ *(.glue_7)
+ .glue_7        0x00000000080005f6        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000080005f6        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x00000000080005f6        0x2 
+ .eh_frame      0x00000000080005f8        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x00000000080005f8        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000080005f8                _init
+ .init          0x00000000080005fc        0x8 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008000604        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008000604                _fini
+ .fini          0x0000000008000608        0x8 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008000610                . = ALIGN (0x4)
+                0x0000000008000610                _etext = .
+
+.vfp11_veneer   0x0000000008000610        0x0
+ .vfp11_veneer  0x0000000008000610        0x0 linker stubs
+
+.v4_bx          0x0000000008000610        0x0
+ .v4_bx         0x0000000008000610        0x0 linker stubs
+
+.iplt           0x0000000008000610        0x0
+ .iplt          0x0000000008000610        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x0000000008000610        0x0
+ .rel.iplt      0x0000000008000610        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008000610        0x0
+                0x0000000008000610                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0000000008000610                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000008000610        0x0
+                0x0000000008000610                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000610                __exidx_end = .
+
+.preinit_array  0x0000000008000610        0x0
+                0x0000000008000610                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000610                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008000610        0x4
+                0x0000000008000610                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008000610        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008000614                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008000614        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008000614        0x4 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008000618                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000        0x4 load address 0x0000000008000618
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 build/system_gd32f4xx.o
+                0x0000000020000000                SystemCoreClock
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                _edata = .
+                0x000000000800061c                _siccmram = LOADADDR (.ccmram)
+
+.igot.plt       0x0000000020000004        0x0 load address 0x000000000800061c
+ .igot.plt      0x0000000020000004        0x0 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ccmram         0x0000000010000000        0x0 load address 0x000000000800061c
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _eccmram = .
+                0x0000000010000000                . = ALIGN (0x4)
+
+.bss            0x0000000020000004       0x20
+                0x0000000020000004                _sbss = .
+                0x0000000020000004                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000004       0x1c /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.delay     0x0000000020000020        0x4 build/systick.o
+ *(COMMON)
+                0x0000000020000024                . = ALIGN (0x4)
+                0x0000000020000024                _ebss = .
+                0x0000000020000024                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000024      0x604
+                0x0000000020000028                . = ALIGN (0x8)
+ *fill*         0x0000000020000024        0x4 
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000228                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000028      0x200 
+                0x0000000020000628                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000228      0x400 
+                0x0000000020000628                . = ALIGN (0x8)
+
+.user_exmc      0x00000000c0000000        0x0
+                0x00000000c0000000                . = ALIGN (0x4)
+                0x00000000c0000000                __suser_exmc = .
+ *(.user_exmc)
+ *(.user_exmc*)
+                0x00000000c0000000                . = ALIGN (0x4)
+                0x00000000c0000000                __euser_exmc = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 build/system_gd32f4xx.o
+ .ARM.attributes
+                0x0000000000000086       0x34 build/gd32f4xx_gpio.o
+ .ARM.attributes
+                0x00000000000000ba       0x34 build/gd32f4xx_rcu.o
+ .ARM.attributes
+                0x00000000000000ee       0x34 build/bsp_led.o
+ .ARM.attributes
+                0x0000000000000122       0x34 build/gd32f4xx_it.o
+ .ARM.attributes
+                0x0000000000000156       0x34 build/main.o
+ .ARM.attributes
+                0x000000000000018a       0x34 build/systick.o
+ .ARM.attributes
+                0x00000000000001be       0x21 build/startup_gd32f450_470.o
+ .ARM.attributes
+                0x00000000000001df       0x1e /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(build/test.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_info     0x0000000000000000     0x330f
+ .debug_info    0x0000000000000000      0x49e build/system_gd32f4xx.o
+ .debug_info    0x000000000000049e      0x8a0 build/gd32f4xx_gpio.o
+ .debug_info    0x0000000000000d3e     0x161d build/gd32f4xx_rcu.o
+ .debug_info    0x000000000000235b      0x45d build/bsp_led.o
+ .debug_info    0x00000000000027b8      0x161 build/gd32f4xx_it.o
+ .debug_info    0x0000000000002919      0x191 build/main.o
+ .debug_info    0x0000000000002aaa      0x843 build/systick.o
+ .debug_info    0x00000000000032ed       0x22 build/startup_gd32f450_470.o
+
+.debug_abbrev   0x0000000000000000      0x983
+ .debug_abbrev  0x0000000000000000      0x1a5 build/system_gd32f4xx.o
+ .debug_abbrev  0x00000000000001a5      0x1fa build/gd32f4xx_gpio.o
+ .debug_abbrev  0x000000000000039f      0x207 build/gd32f4xx_rcu.o
+ .debug_abbrev  0x00000000000005a6       0xab build/bsp_led.o
+ .debug_abbrev  0x0000000000000651       0x81 build/gd32f4xx_it.o
+ .debug_abbrev  0x00000000000006d2       0xd5 build/main.o
+ .debug_abbrev  0x00000000000007a7      0x1ca build/systick.o
+ .debug_abbrev  0x0000000000000971       0x12 build/startup_gd32f450_470.o
+
+.debug_loc      0x0000000000000000     0x14ef
+ .debug_loc     0x0000000000000000      0x1de build/system_gd32f4xx.o
+ .debug_loc     0x00000000000001de      0x3fc build/gd32f4xx_gpio.o
+ .debug_loc     0x00000000000005da      0xe25 build/gd32f4xx_rcu.o
+ .debug_loc     0x00000000000013ff       0x20 build/bsp_led.o
+ .debug_loc     0x000000000000141f       0x20 build/gd32f4xx_it.o
+ .debug_loc     0x000000000000143f       0x20 build/main.o
+ .debug_loc     0x000000000000145f       0x90 build/systick.o
+
+.debug_aranges  0x0000000000000000      0x350
+ .debug_aranges
+                0x0000000000000000       0x38 build/system_gd32f4xx.o
+ .debug_aranges
+                0x0000000000000038       0x90 build/gd32f4xx_gpio.o
+ .debug_aranges
+                0x00000000000000c8      0x190 build/gd32f4xx_rcu.o
+ .debug_aranges
+                0x0000000000000258       0x20 build/bsp_led.o
+ .debug_aranges
+                0x0000000000000278       0x60 build/gd32f4xx_it.o
+ .debug_aranges
+                0x00000000000002d8       0x20 build/main.o
+ .debug_aranges
+                0x00000000000002f8       0x30 build/systick.o
+ .debug_aranges
+                0x0000000000000328       0x28 build/startup_gd32f450_470.o
+
+.debug_ranges   0x0000000000000000      0x2d8
+ .debug_ranges  0x0000000000000000       0x28 build/system_gd32f4xx.o
+ .debug_ranges  0x0000000000000028       0x80 build/gd32f4xx_gpio.o
+ .debug_ranges  0x00000000000000a8      0x180 build/gd32f4xx_rcu.o
+ .debug_ranges  0x0000000000000228       0x10 build/bsp_led.o
+ .debug_ranges  0x0000000000000238       0x50 build/gd32f4xx_it.o
+ .debug_ranges  0x0000000000000288       0x10 build/main.o
+ .debug_ranges  0x0000000000000298       0x20 build/systick.o
+ .debug_ranges  0x00000000000002b8       0x20 build/startup_gd32f450_470.o
+
+.debug_line     0x0000000000000000     0x1dd2
+ .debug_line    0x0000000000000000      0x4c4 build/system_gd32f4xx.o
+ .debug_line    0x00000000000004c4      0x57b build/gd32f4xx_gpio.o
+ .debug_line    0x0000000000000a3f      0xcba build/gd32f4xx_rcu.o
+ .debug_line    0x00000000000016f9      0x144 build/bsp_led.o
+ .debug_line    0x000000000000183d      0x137 build/gd32f4xx_it.o
+ .debug_line    0x0000000000001974      0x188 build/main.o
+ .debug_line    0x0000000000001afc      0x263 build/systick.o
+ .debug_line    0x0000000000001d5f       0x73 build/startup_gd32f450_470.o
+
+.debug_str      0x0000000000000000     0x2078
+ .debug_str     0x0000000000000000      0x2ac build/system_gd32f4xx.o
+                                        0x307 (size before relaxing)
+ .debug_str     0x00000000000002ac      0x4ed build/gd32f4xx_gpio.o
+                                        0x683 (size before relaxing)
+ .debug_str     0x0000000000000799     0x1168 build/gd32f4xx_rcu.o
+                                       0x1684 (size before relaxing)
+ .debug_str     0x0000000000001901       0x27 build/bsp_led.o
+                                        0x49c (size before relaxing)
+ .debug_str     0x0000000000001928       0xb3 build/gd32f4xx_it.o
+                                        0x20a (size before relaxing)
+ .debug_str     0x00000000000019db       0x20 build/main.o
+                                        0x1b0 (size before relaxing)
+ .debug_str     0x00000000000019fb      0x658 build/systick.o
+                                        0x8c0 (size before relaxing)
+ .debug_str     0x0000000000002053       0x25 build/startup_gd32f450_470.o
+                                         0x42 (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 build/system_gd32f4xx.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a build/gd32f4xx_gpio.o
+ .comment       0x0000000000000049       0x4a build/gd32f4xx_rcu.o
+ .comment       0x0000000000000049       0x4a build/bsp_led.o
+ .comment       0x0000000000000049       0x4a build/gd32f4xx_it.o
+ .comment       0x0000000000000049       0x4a build/main.o
+ .comment       0x0000000000000049       0x4a build/systick.o
+
+.debug_frame    0x0000000000000000      0x610
+ .debug_frame   0x0000000000000000       0x70 build/system_gd32f4xx.o
+ .debug_frame   0x0000000000000070      0x12c build/gd32f4xx_gpio.o
+ .debug_frame   0x000000000000019c      0x33c build/gd32f4xx_rcu.o
+ .debug_frame   0x00000000000004d8       0x28 build/bsp_led.o
+ .debug_frame   0x0000000000000500       0xa8 build/gd32f4xx_it.o
+ .debug_frame   0x00000000000005a8       0x28 build/main.o
+ .debug_frame   0x00000000000005d0       0x40 build/systick.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    build/startup_gd32f450_470.o
+BusFault_Handler                                  build/gd32f4xx_it.o
+CAN0_EWMC_IRQHandler                              build/startup_gd32f450_470.o
+CAN0_RX0_IRQHandler                               build/startup_gd32f450_470.o
+CAN0_RX1_IRQHandler                               build/startup_gd32f450_470.o
+CAN0_TX_IRQHandler                                build/startup_gd32f450_470.o
+CAN1_EWMC_IRQHandler                              build/startup_gd32f450_470.o
+CAN1_RX0_IRQHandler                               build/startup_gd32f450_470.o
+CAN1_RX1_IRQHandler                               build/startup_gd32f450_470.o
+CAN1_TX_IRQHandler                                build/startup_gd32f450_470.o
+DCI_IRQHandler                                    build/startup_gd32f450_470.o
+DMA0_Channel0_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel1_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel2_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel3_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel4_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel5_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel6_IRQHandler                          build/startup_gd32f450_470.o
+DMA0_Channel7_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel0_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel1_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel2_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel3_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel4_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel5_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel6_IRQHandler                          build/startup_gd32f450_470.o
+DMA1_Channel7_IRQHandler                          build/startup_gd32f450_470.o
+DebugMon_Handler                                  build/gd32f4xx_it.o
+Default_Handler                                   build/startup_gd32f450_470.o
+ENET_IRQHandler                                   build/startup_gd32f450_470.o
+ENET_WKUP_IRQHandler                              build/startup_gd32f450_470.o
+EXMC_IRQHandler                                   build/startup_gd32f450_470.o
+EXTI0_IRQHandler                                  build/startup_gd32f450_470.o
+EXTI10_15_IRQHandler                              build/startup_gd32f450_470.o
+EXTI1_IRQHandler                                  build/startup_gd32f450_470.o
+EXTI2_IRQHandler                                  build/startup_gd32f450_470.o
+EXTI3_IRQHandler                                  build/startup_gd32f450_470.o
+EXTI4_IRQHandler                                  build/startup_gd32f450_470.o
+EXTI5_9_IRQHandler                                build/startup_gd32f450_470.o
+FMC_IRQHandler                                    build/startup_gd32f450_470.o
+FPU_IRQHandler                                    build/startup_gd32f450_470.o
+HardFault_Handler                                 build/gd32f4xx_it.o
+I2C0_ER_IRQHandler                                build/startup_gd32f450_470.o
+I2C0_EV_IRQHandler                                build/startup_gd32f450_470.o
+I2C1_ER_IRQHandler                                build/startup_gd32f450_470.o
+I2C1_EV_IRQHandler                                build/startup_gd32f450_470.o
+I2C2_ER_IRQHandler                                build/startup_gd32f450_470.o
+I2C2_EV_IRQHandler                                build/startup_gd32f450_470.o
+IPA_IRQHandler                                    build/startup_gd32f450_470.o
+LVD_IRQHandler                                    build/startup_gd32f450_470.o
+MemManage_Handler                                 build/gd32f4xx_it.o
+NMI_Handler                                       build/gd32f4xx_it.o
+PendSV_Handler                                    build/gd32f4xx_it.o
+RCU_CTC_IRQHandler                                build/startup_gd32f450_470.o
+RTC_Alarm_IRQHandler                              build/startup_gd32f450_470.o
+RTC_WKUP_IRQHandler                               build/startup_gd32f450_470.o
+Reset_Handler                                     build/startup_gd32f450_470.o
+SDIO_IRQHandler                                   build/startup_gd32f450_470.o
+SPI0_IRQHandler                                   build/startup_gd32f450_470.o
+SPI1_IRQHandler                                   build/startup_gd32f450_470.o
+SPI2_IRQHandler                                   build/startup_gd32f450_470.o
+SPI3_IRQHandler                                   build/startup_gd32f450_470.o
+SPI4_IRQHandler                                   build/startup_gd32f450_470.o
+SPI5_IRQHandler                                   build/startup_gd32f450_470.o
+SVC_Handler                                       build/gd32f4xx_it.o
+SysTick_Handler                                   build/gd32f4xx_it.o
+SystemCoreClock                                   build/system_gd32f4xx.o
+                                                  build/systick.o
+SystemCoreClockUpdate                             build/system_gd32f4xx.o
+SystemInit                                        build/system_gd32f4xx.o
+                                                  build/startup_gd32f450_470.o
+TAMPER_STAMP_IRQHandler                           build/startup_gd32f450_470.o
+TIMER0_BRK_TIMER8_IRQHandler                      build/startup_gd32f450_470.o
+TIMER0_CC_IRQHandler                              build/startup_gd32f450_470.o
+TIMER0_TRG_CMT_TIMER10_IRQHandler                 build/startup_gd32f450_470.o
+TIMER0_UP_TIMER9_IRQHandler                       build/startup_gd32f450_470.o
+TIMER1_IRQHandler                                 build/startup_gd32f450_470.o
+TIMER2_IRQHandler                                 build/startup_gd32f450_470.o
+TIMER3_IRQHandler                                 build/startup_gd32f450_470.o
+TIMER4_IRQHandler                                 build/startup_gd32f450_470.o
+TIMER5_DAC_IRQHandler                             build/startup_gd32f450_470.o
+TIMER6_IRQHandler                                 build/startup_gd32f450_470.o
+TIMER7_BRK_TIMER11_IRQHandler                     build/startup_gd32f450_470.o
+TIMER7_CC_IRQHandler                              build/startup_gd32f450_470.o
+TIMER7_TRG_CMT_TIMER13_IRQHandler                 build/startup_gd32f450_470.o
+TIMER7_UP_TIMER12_IRQHandler                      build/startup_gd32f450_470.o
+TLI_ER_IRQHandler                                 build/startup_gd32f450_470.o
+TLI_IRQHandler                                    build/startup_gd32f450_470.o
+TRNG_IRQHandler                                   build/startup_gd32f450_470.o
+UART3_IRQHandler                                  build/startup_gd32f450_470.o
+UART4_IRQHandler                                  build/startup_gd32f450_470.o
+UART6_IRQHandler                                  build/startup_gd32f450_470.o
+UART7_IRQHandler                                  build/startup_gd32f450_470.o
+USART0_IRQHandler                                 build/startup_gd32f450_470.o
+USART1_IRQHandler                                 build/startup_gd32f450_470.o
+USART2_IRQHandler                                 build/startup_gd32f450_470.o
+USART5_IRQHandler                                 build/startup_gd32f450_470.o
+USBFS_IRQHandler                                  build/startup_gd32f450_470.o
+USBFS_WKUP_IRQHandler                             build/startup_gd32f450_470.o
+USBHS_EP1_In_IRQHandler                           build/startup_gd32f450_470.o
+USBHS_EP1_Out_IRQHandler                          build/startup_gd32f450_470.o
+USBHS_IRQHandler                                  build/startup_gd32f450_470.o
+USBHS_WKUP_IRQHandler                             build/startup_gd32f450_470.o
+UsageFault_Handler                                build/gd32f4xx_it.o
+WWDGT_IRQHandler                                  build/startup_gd32f450_470.o
+__bss_end__                                       /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__bss_start__                                     /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__call_exitprocs                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__dso_handle                                      /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__init_array_end                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+__init_array_start                                /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__libc_init_array                                 /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__preinit_array_end                               /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+__preinit_array_start                             /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+__register_frame_info                             /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__sf_fake_stderr                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+__stack                                           /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_ebss                                             build/startup_gd32f450_470.o
+_edata                                            build/startup_gd32f450_470.o
+_estack                                           build/startup_gd32f450_470.o
+_exit                                             /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+_fini                                             /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+_global_impure_ptr                                /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+_init                                             /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_sbss                                             build/startup_gd32f450_470.o
+_sdata                                            build/startup_gd32f450_470.o
+_sidata                                           build/startup_gd32f450_470.o
+_stack_init                                       /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_start                                            /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+atexit                                            /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+delay_1ms                                         build/systick.o
+delay_decrement                                   build/systick.o
+                                                  build/gd32f4xx_it.o
+exit                                              /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+exti_init                                         build/gd32f450i_eval.o
+exti_interrupt_flag_clear                         build/gd32f450i_eval.o
+g_pfnVectors                                      build/startup_gd32f450_470.o
+gd_eval_com_init                                  build/gd32f450i_eval.o
+gd_eval_key_init                                  build/gd32f450i_eval.o
+gd_eval_key_state_get                             build/gd32f450i_eval.o
+gd_eval_led_init                                  build/gd32f450i_eval.o
+gd_eval_led_off                                   build/gd32f450i_eval.o
+gd_eval_led_on                                    build/gd32f450i_eval.o
+gd_eval_led_toggle                                build/gd32f450i_eval.o
+gpio_af_set                                       build/gd32f4xx_gpio.o
+                                                  build/gd32f450i_eval.o
+gpio_bit_reset                                    build/gd32f4xx_gpio.o
+gpio_bit_set                                      build/gd32f4xx_gpio.o
+gpio_bit_toggle                                   build/gd32f4xx_gpio.o
+gpio_bit_write                                    build/gd32f4xx_gpio.o
+                                                  build/main.o
+gpio_deinit                                       build/gd32f4xx_gpio.o
+gpio_input_bit_get                                build/gd32f4xx_gpio.o
+                                                  build/gd32f450i_eval.o
+gpio_input_port_get                               build/gd32f4xx_gpio.o
+gpio_mode_set                                     build/gd32f4xx_gpio.o
+                                                  build/gd32f450i_eval.o
+                                                  build/bsp_led.o
+gpio_output_bit_get                               build/gd32f4xx_gpio.o
+gpio_output_options_set                           build/gd32f4xx_gpio.o
+                                                  build/gd32f450i_eval.o
+                                                  build/bsp_led.o
+gpio_output_port_get                              build/gd32f4xx_gpio.o
+gpio_pin_lock                                     build/gd32f4xx_gpio.o
+gpio_port_toggle                                  build/gd32f4xx_gpio.o
+gpio_port_write                                   build/gd32f4xx_gpio.o
+hardware_init_hook                                /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+led_gpio_config                                   build/bsp_led.o
+                                                  build/main.o
+main                                              build/main.o
+                                                  build/startup_gd32f450_470.o
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+memset                                            /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                                                  /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+nvic_irq_enable                                   build/gd32f450i_eval.o
+rcu_ahb_clock_config                              build/gd32f4xx_rcu.o
+rcu_all_reset_flag_clear                          build/gd32f4xx_rcu.o
+rcu_apb1_clock_config                             build/gd32f4xx_rcu.o
+rcu_apb2_clock_config                             build/gd32f4xx_rcu.o
+rcu_bkp_reset_disable                             build/gd32f4xx_rcu.o
+rcu_bkp_reset_enable                              build/gd32f4xx_rcu.o
+rcu_ck48m_clock_config                            build/gd32f4xx_rcu.o
+rcu_ckout0_config                                 build/gd32f4xx_rcu.o
+rcu_ckout1_config                                 build/gd32f4xx_rcu.o
+rcu_clock_freq_get                                build/gd32f4xx_rcu.o
+rcu_deepsleep_voltage_set                         build/gd32f4xx_rcu.o
+rcu_deinit                                        build/gd32f4xx_rcu.o
+rcu_flag_get                                      build/gd32f4xx_rcu.o
+rcu_hxtal_clock_monitor_disable                   build/gd32f4xx_rcu.o
+rcu_hxtal_clock_monitor_enable                    build/gd32f4xx_rcu.o
+rcu_i2s_clock_config                              build/gd32f4xx_rcu.o
+rcu_interrupt_disable                             build/gd32f4xx_rcu.o
+rcu_interrupt_enable                              build/gd32f4xx_rcu.o
+rcu_interrupt_flag_clear                          build/gd32f4xx_rcu.o
+rcu_interrupt_flag_get                            build/gd32f4xx_rcu.o
+rcu_irc16m_adjust_value_set                       build/gd32f4xx_rcu.o
+rcu_lxtal_drive_capability_config                 build/gd32f4xx_rcu.o
+rcu_osci_bypass_mode_disable                      build/gd32f4xx_rcu.o
+rcu_osci_bypass_mode_enable                       build/gd32f4xx_rcu.o
+rcu_osci_off                                      build/gd32f4xx_rcu.o
+rcu_osci_on                                       build/gd32f4xx_rcu.o
+rcu_osci_stab_wait                                build/gd32f4xx_rcu.o
+rcu_periph_clock_disable                          build/gd32f4xx_rcu.o
+rcu_periph_clock_enable                           build/gd32f4xx_rcu.o
+                                                  build/gd32f450i_eval.o
+                                                  build/bsp_led.o
+rcu_periph_clock_sleep_disable                    build/gd32f4xx_rcu.o
+rcu_periph_clock_sleep_enable                     build/gd32f4xx_rcu.o
+rcu_periph_reset_disable                          build/gd32f4xx_rcu.o
+                                                  build/gd32f4xx_gpio.o
+rcu_periph_reset_enable                           build/gd32f4xx_rcu.o
+                                                  build/gd32f4xx_gpio.o
+rcu_pll48m_clock_config                           build/gd32f4xx_rcu.o
+rcu_pll_config                                    build/gd32f4xx_rcu.o
+rcu_plli2s_config                                 build/gd32f4xx_rcu.o
+rcu_pllsai_config                                 build/gd32f4xx_rcu.o
+rcu_rtc_clock_config                              build/gd32f4xx_rcu.o
+rcu_rtc_div_config                                build/gd32f4xx_rcu.o
+rcu_spread_spectrum_config                        build/gd32f4xx_rcu.o
+rcu_spread_spectrum_disable                       build/gd32f4xx_rcu.o
+rcu_spread_spectrum_enable                        build/gd32f4xx_rcu.o
+rcu_system_clock_source_config                    build/gd32f4xx_rcu.o
+rcu_system_clock_source_get                       build/gd32f4xx_rcu.o
+rcu_timer_clock_prescaler_config                  build/gd32f4xx_rcu.o
+rcu_tli_clock_div_config                          build/gd32f4xx_rcu.o
+rcu_voltage_key_unlock                            build/gd32f4xx_rcu.o
+software_init_hook                                /home/david/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+syscfg_exti_line_config                           build/gd32f450i_eval.o
+systick_config                                    build/systick.o
+                                                  build/main.o
+usart_baudrate_set                                build/gd32f450i_eval.o
+usart_deinit                                      build/gd32f450i_eval.o
+usart_enable                                      build/gd32f450i_eval.o
+usart_receive_config                              build/gd32f450i_eval.o
+usart_transmit_config                             build/gd32f450i_eval.o
