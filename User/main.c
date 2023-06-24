@@ -58,12 +58,26 @@ int main(void)
 
 //	gpio_bit_set(GPIOD,GPIO_PIN_7);
 //	gpio_bit_reset(GPIOD,GPIO_PIN_7);
-	gpio_bit_write(PORT_LED,PIN_LED,SET);
-	gpio_bit_write(PORT_LED2,PIN_LED2,SET);
-	gpio_bit_write(PORT_LED3,PIN_LED3,SET);
-	gpio_bit_write(PORT_LED4,PIN_LED4,SET);
-
 	
     while(1) {
+
+	gpio_bit_write(PORT_LED,PIN_LED,SET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED2,PIN_LED2,SET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED3,PIN_LED3,SET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED4,PIN_LED4,SET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED,PIN_LED,RESET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED2,PIN_LED2,RESET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED3,PIN_LED3,RESET);
+	delay_1ms(500);
+	gpio_bit_write(PORT_LED4,PIN_LED4,RESET);
+	delay_1ms(500);
+
+
     }
 }
